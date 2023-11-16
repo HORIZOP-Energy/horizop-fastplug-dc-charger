@@ -1,1 +1,1 @@
-# HORIZOP_Fastplug_DC_Charger_V2
+# HORIZOP_Fastplug_DC_Charger
